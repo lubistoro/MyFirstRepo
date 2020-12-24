@@ -1,0 +1,4 @@
+Mencoba menggunakan Github
+- Ingin bisa menggunakan HTML
+- Ingin bisa menggunakan CSS
+- Ingin bisa menggunakan Javascript
