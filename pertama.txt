@@ -3,4 +3,4 @@ Mencoba menggunakan Github
 - Ingin bisa menggunakan CSS
 - Ingin bisa menggunakan Javascript
 - Ingin bisa menggunakan React
-- Ingin bisa bekerja di Upwork
+- Ingin bisa menjadi Front-End Developer
